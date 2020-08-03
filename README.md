@@ -6,7 +6,7 @@ Me chama no linkedIn :)
 {
   "nome" : "Raphael Passos dos Santos",
   "idade" : "23 anos",
-  "descricao" : "Gosto muito de criar uma solução e vê-la funcionando e realmente resolvendo um problema. Dependendo do tipo de problema, é necessário muito conhecimento.",
+  "descricao" : "Gosto muito de criar uma solução e vê-la funcionando e realmente resolvendo um problema. Dependendo da natureza do problema, é necessário muito conhecimento.",
   "estudo" : {
   	"faculdade" : "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
   	"curso" : "Análise e Desenvolvimento de Sistemas"
