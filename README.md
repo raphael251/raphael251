@@ -6,8 +6,8 @@ Me chama no linkedIn :)
 {
   "nome" : "Raphael Passos dos Santos",
   "idade" : "23 anos",
-  "descricao" : "Gosto muito de criar uma solução e vê-la funcionando e realmente resolvendo um problema. Dependendo da natureza do problema, é necessário muito conhecimento.",
-  "estudo" : {
+  "descricao" : "Gosto muito de criar uma solução e vê-la funcionando e realmente resolvendo um problema.",
+  "estudos" : {
   	"faculdade" : "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
   	"curso" : "Análise e Desenvolvimento de Sistemas"
   },
@@ -25,7 +25,6 @@ Me chama no linkedIn :)
 ```
 
 <!--
-**raphael251/raphael251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
