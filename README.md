@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Me chama no linkedIn :)
+Me chama no linkedIn pra trocar uma ideia ou se achar algo em que eu possa melhorar nos meus códigos ou modo de me expressar. :)
 
 ``` json
 {
