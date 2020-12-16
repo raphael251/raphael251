@@ -23,6 +23,10 @@ Me chama no linkedIn pra trocar uma ideia ou se achar algo em que eu possa melho
   ]
 }
 ```
+<br />
+<p align="center"> 
+ <a><img src="https://github-readme-stats.vercel.app/api?username=raphael251&show_icons=true&theme=graywhite" /></a>
+</p> 
 
 <!--
 
