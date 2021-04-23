@@ -7,7 +7,7 @@
   "description" : "I like to create a solution and see it working and really solving a problem.",
   "schooling" : {
   	"college" : "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
-  	"course" : "Análise e Desenvolvimento de Sistemas"
+  	"course" : "System Analysis and Development"
   },
   "linkedin" : "https://www.linkedin.com/in/raphael-passos-721762120/",
   "hardSkills" : [
