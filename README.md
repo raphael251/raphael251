@@ -1,18 +1,16 @@
 ### Hi there 👋
 
-Me chama no linkedIn pra trocar uma ideia ou se achar algo em que eu possa melhorar nos meus códigos ou modo de me expressar. :)
-
 ``` json
 {
-  "nome" : "Raphael Passos dos Santos",
-  "idade" : "23 anos",
-  "descricao" : "Gosto muito de criar uma solução e vê-la funcionando e realmente resolvendo um problema.",
-  "estudos" : {
-  	"faculdade" : "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
-  	"curso" : "Análise e Desenvolvimento de Sistemas"
+  "name" : "Raphael Passos dos Santos",
+  "age" : "24",
+  "description" : "I like to create a solution and see it working and really solving a problem.",
+  "schooling" : {
+  	"college" : "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
+  	"course" : "Análise e Desenvolvimento de Sistemas"
   },
   "linkedin" : "https://www.linkedin.com/in/raphael-passos-721762120/",
-  "habilidades" : [
+  "hardSkills" : [
     "Javascript",
     "Node.js",
     "Typescript",
